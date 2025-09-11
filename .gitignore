@@ -10,10 +10,8 @@ target/
 *.iml
 *.ipr
 
-
-### VS Code ###
-.vscode/
-
 .DS_Store
 
 .idea/
+
+spring-boot-config/src/main/resources/aliyun-oss.properties

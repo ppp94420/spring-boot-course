@@ -1,0 +1,8 @@
+server:
+  port: 8081
+
+team:
+  leader: "xym"
+  phone: "15062106761"
+  age: 3
+  createDate: "2019-09-01"

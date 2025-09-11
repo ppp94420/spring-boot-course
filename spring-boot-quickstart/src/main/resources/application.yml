@@ -1,2 +1,24 @@
 server:
   port: 8081
+
+#自定义配置
+my:
+  #心情语录
+  mood:
+    today: 周五
+    content: 努力工作
+    author: "小程序员"
+  # 功能开关
+  feature:
+    helloSwitch: true
+    closeMsg: "该接口正在维护，10分钟后再来吧！"
+
+xym:
+  sms:
+    ccp:
+      serverIp: app.cloopen.com
+      port: 8883
+      accountSId: 2c94811c9860a9c401991c56c98d2048
+      accountToken: 0e83a1d266654b9e973bb5a89d6b7950
+      appId: 2c94811c9860a9c401991c56cb1d204f
+      templateId: 1
